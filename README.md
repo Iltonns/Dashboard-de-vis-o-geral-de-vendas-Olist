@@ -1,7 +1,7 @@
 # No projeto de análise de dados do E-Commerce Olist, tive a oportunidade de aplicar e aprimorar minhas habilidades em cálculos DAX, ETL com Power Query e visualização de dados. 
 O objetivo foi criar um dashboard abrangente que fornecesse insights valiosos sobre o desempenho das vendas, categorias de produtos e métodos de pagamento no período de janeiro de 2017 a agosto de 2018.
 
-#Principais atividades realizadas:
+# Principais atividades realizadas:
 
 # ETL com Power Query: 
 Realizei a extração, transformação e carregamento dos dados brutos, garantindo que estivessem limpos e estruturados para análise. 
