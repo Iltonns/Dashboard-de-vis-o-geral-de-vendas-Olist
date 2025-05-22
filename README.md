@@ -59,7 +59,9 @@ Dashboard Olist
 🔹 Implementação de modelo preditivo para demanda
 
 <div align="center" style="margin-top: 20px;"> <img src="https://img.shields.io/badge/Status-Produção-green" alt="Status"/> <img src="https://img.shields.io/badge/Atualização-Trimestral-blue" alt="Frequência"/> <img src="https://img.shields.io/badge/Abordagem-Data_Driven-orange" alt="Abordagem"/> </div>
+
 # 💡 Destaques Técnicos
+
 "Este projeto me permitiu aprofundar significativamente minhas habilidades em DAX, particularmente na criação de medidas complexas para análise temporal. A experiência com ETL no Power Query foi fundamental para transformar dados brutos em informações estruturadas, enquanto as visualizações interativas proporcionaram insights imediatos sobre o desempenho do marketplace."
 
 # 📥 Acesso
