@@ -41,6 +41,7 @@ Cards com KPIs atualizáveis em tempo real
 
 # 🔧 Stack Tecnológica
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/> <img src="https://img.shields.io/badge/DAX-FF9900?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/> </div>
+
 # 📊 Principais Resultados
 
 ✔ Aumento de 40% na velocidade de análise de dados
